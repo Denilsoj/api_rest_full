@@ -23,5 +23,9 @@ module.exports = {
   },
   rules: {
     'class-methods-use-this': 0,
+    'no-console': 0,
+    'import/prefer-default-export': 0,
+    'max-len': 0,
+    quotes: 0,
   },
 };
