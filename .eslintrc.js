@@ -27,5 +27,8 @@ module.exports = {
     'import/prefer-default-export': 0,
     'max-len': 0,
     quotes: 0,
+    'no-underscore-dangle': 0,
+    'no-useless-escape': 0,
+    'no-useless-return': 0,
   },
 };
